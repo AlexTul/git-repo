@@ -3,8 +3,8 @@ Point 7 - line 1
 Point 7 - line 2
 Point 8 - line 1
 Point 8 - line 2
-
-
+Point 18 - line 1
+Point 18 - line 2
 
 
 
